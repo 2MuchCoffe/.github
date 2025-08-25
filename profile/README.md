@@ -15,7 +15,7 @@ We thrive on hackathons, open-source collaboration, and shipping products that p
 - **[Nazeeh](https://github.com/nazeeh-v)** – UI Design, Ideas, Presentation Support
 
 ## 🏗 Projects
-- [**EventEase**](https://github.com/2MuchCoffe/EventEase) – Event management platform built during [Sphota Hackathon 2025]
+- [**EventEase**](https://github.com/2MuchCoffe/EventEase) – Event management platform built during [**Sphota Hackathon 2025**](https://www.sphota.ieee.uck.ac.in/)
   – Features QR check-in, anonymous public channels, private volunteer tickets, and walkie-talkie for real-time team comms.
 
 *(More projects coming soon…)*
