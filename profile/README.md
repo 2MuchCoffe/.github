@@ -10,7 +10,7 @@ We thrive on hackathons, open-source collaboration, and shipping products that p
 
 ## 👥 The Crew
 - **[Abhishek M Raj](https://github.com/Prince-of-death)** – Backend & Frontend Development  
-- **[Munjidth](https://github.com/munjidvh)** – Backend & Frontend Development  
+- **[Munjid](https://github.com/munjidvh)** – Backend & Frontend Development  
 - **[Akhil]()** – Ideas, Roadmaps, Slides, Presentation & Strategy  
 - **[Nazeeh](https://github.com/nazeeh-v)** – UI Design, Ideas, Presentation Support
 
